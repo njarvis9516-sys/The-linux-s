@@ -39,7 +39,7 @@
 [Puppy](https://puppylinux-woof-ce.github.io/)
 
 # Kubuntu (this is an Ubuntu flavor)
-[Kubuntu](https://kubuntu.org/download/)\
+[Kubuntu](https://kubuntu.org/download/)
 
 # Mageia
 [Mageia](https://www.mageia.org/en/downloads/)
