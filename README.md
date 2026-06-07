@@ -23,5 +23,7 @@
 
 # Linux Mint
 [Linux Mint Cinnamon](https://www.linuxmint.com/edition.php?id=326)
+
 [Linux Mint XFCE](https://www.linuxmint.com/edition.php?id=327)
+
 [Linux Mint MATE](https://www.linuxmint.com/edition.php?id=328)
