@@ -1,3 +1,4 @@
+
 # The-linux-s
 
 # Vanilla
@@ -33,3 +34,15 @@
 
 # Xubuntu (this is an Ubuntu flavor)
 [Xubntu](https://xubuntu.org/download/)
+
+# Puppy
+[Puppy](https://puppylinux-woof-ce.github.io/)
+
+# Kubuntu (this is an Ubuntu flavor)
+[Kubuntu](https://kubuntu.org/download/)\
+
+# Mageia
+[Mageia](https://www.mageia.org/en/downloads/)
+
+# Cent OS
+[Cent OS](https://www.centos.org/download/#centos-stream)
