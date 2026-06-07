@@ -8,11 +8,17 @@
 
 # Fedora
 [Fedora Workstation](https://fedoraproject.org/workstation/)
+
 [Fedora Cloud](https://fedoraproject.org/cloud/)
+
 [Fedora KDE Plasma](https://fedoraproject.org/kde/)
+
 [Fedora Core OS](https://fedoraproject.org/coreos/)
+
 [Fedora Server](https://fedoraproject.org/server/)
+
 [Fedora ITO](https://fedoraproject.org/iot/)
+
 [More Versions](https://fedoraproject.org/)
 
 # Linux Mint
