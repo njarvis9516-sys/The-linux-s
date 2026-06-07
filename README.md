@@ -3,7 +3,7 @@
 # Vanilla
 [Vanilla](https://vanillaos.org/download/orchid/stable)
 
-#Ubuntu
+# Ubuntu
 [Ubuntu](https://ubuntu.com/download)
 
 # Fedora
