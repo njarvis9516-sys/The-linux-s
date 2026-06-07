@@ -27,3 +27,9 @@
 [Linux Mint XFCE](https://www.linuxmint.com/edition.php?id=327)
 
 [Linux Mint MATE](https://www.linuxmint.com/edition.php?id=328)
+
+# Arch
+[Arch](https://archlinux.org/download/)
+
+#Xubntu (this is a Ubuntu flavor)
+[Xubntu](https://xubuntu.org/download/)
