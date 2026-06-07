@@ -31,5 +31,5 @@
 # Arch
 [Arch](https://archlinux.org/download/)
 
-# Xubntu (this is a Ubuntu flavor)
+# Xubuntu (this is an Ubuntu flavor)
 [Xubntu](https://xubuntu.org/download/)
