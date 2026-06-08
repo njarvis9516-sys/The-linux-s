@@ -1,6 +1,6 @@
 
 # The-linux-s
-
+How I got most of the linux os's [linux.org](https://www.linux.org/pages/download/)
 # Vanilla
 [Vanilla](https://vanillaos.org/download/orchid/stable)
 
