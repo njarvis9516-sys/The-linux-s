@@ -46,3 +46,6 @@ How I got most of the linux os's [linux.org](https://www.linux.org/pages/downloa
 
 # Cent OS
 [Cent OS](https://www.centos.org/download/#centos-stream)
+
+# Netrunner
+[Netrunner](https://www.netrunner.com/download/)
